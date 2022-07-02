@@ -2,3 +2,7 @@ div{
     background-color: aqua;
     padding: 10px;
 }
+p{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
